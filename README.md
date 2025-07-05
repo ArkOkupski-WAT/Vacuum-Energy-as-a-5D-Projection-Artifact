@@ -1,6 +1,8 @@
 # Vacuum-Energy-as-a-5D-Projection-Artifact
 Hypothesis: vacuum energy appears small in 4D because it's exponentially filtered when projected from 5D spacetime. Hydrodynamic-inspired approach to cosmological constant problem.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15814946.svg)](https://doi.org/10.5281/zenodo.15814946)
+
 ## 📄 Full Hypothesis Paper  
 
 [![PDF Download](https://img.shields.io/badge/Download-PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/ArkOkupski-WAT/Vacuum-Energy-as-a-5D-Projection-Artifact/raw/main/Vacuum_Energy_as_a_5D_Projection_Artifact.pdf)  
