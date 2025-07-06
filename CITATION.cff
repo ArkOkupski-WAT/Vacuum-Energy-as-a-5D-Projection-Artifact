@@ -1,14 +1,19 @@
-## How to Cite This Work
-
-If you use this hypothesis in your research, please cite it as:
-
-```bibtex
-@software{Okupski_Vacuum_Energy_as_2025,
-  author = {Okupski, Arkadiusz},
-  doi = {10.5281/zenodo.15814946},
-  month = may,
-  title = {{Vacuum Energy as a 5D Projection Artifact}},
-  url = {https://github.com/ArkOkupski-WAT/Vacuum-Energy-as-a-5D-Projection-Artifact},
-  version = {1.0},
-  year = {2025}
-}
+cff-version: 1.2.0
+message: "If you use this work, please cite it using these metadata."
+title: "Vacuum Energy as a 5D Projection Artifact"
+abstract: "Hypothesis proposing that vacuum energy appears small in 4D because it's exponentially filtered when projected from 5D spacetime, with a hydrodynamic-inspired approach to the cosmological constant problem."
+authors:
+  - family-names: "Okupski"
+    given-names: "Arkadiusz"
+version: 1.0
+doi: 10.5281/zenodo.15814946
+date-released: 2025-07-05 # Update to your release date
+url: "https://github.com/ArkOkupski-WAT/Vacuum-Energy-as-a-5D-Projection-Artifact"
+license: MIT # Update if using different license
+repository-code: "https://github.com/ArkOkupski-WAT/Vacuum-Energy-as-a-5D-Projection-Artifact"
+keywords:
+  - "dark energy"
+  - "cosmological constant"
+  - "5D spacetime"
+  - "vacuum energy"
+  - "hydrodynamic analogy"
