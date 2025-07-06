@@ -1,0 +1,14 @@
+## How to Cite This Work
+
+If you use this hypothesis in your research, please cite it as:
+
+```bibtex
+@software{Okupski_Vacuum_Energy_as_2025,
+  author = {Okupski, Arkadiusz},
+  doi = {10.5281/zenodo.15814946},
+  month = may,
+  title = {{Vacuum Energy as a 5D Projection Artifact}},
+  url = {https://github.com/ArkOkupski-WAT/Vacuum-Energy-as-a-5D-Projection-Artifact},
+  version = {1.0},
+  year = {2025}
+}
