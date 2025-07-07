@@ -33,15 +33,9 @@ Hypothesis: vacuum energy appears small in 4D because it's exponentially filtere
 
 | Reference Frame     | Vacuum Energy (ρ)    | Explanation                                                                 |
 |---------------------|----------------------|-----------------------------------------------------------------------------|
-| **CP5D Observer**   | `10¹¹³ J/m³`         | True GEP (already includes adhesion to the universe's "walls").             |
-| **CP4D Observer**   | `0 J/m³` (background)| Perceives the post-adhesion 5D vacuum as "empty".                           |
-| **Dark Energy**     | `-10⁻⁹ J/m³`         | **Net effect**: Energy spent on adhesion (curving CP4D). What we "see".    |
-
-**Key Notes**:  
-1. The `10¹¹³ J/m³` in CP5D **already accounts** for adhesion (like water clinging to a glass wall). The `10¹¹³ J/m³` in CP5D is the *post-adhesion equilibrium* – the energy "used" to curve spacetime is already subtracted. 
-2. **We (CP4D)** treat this pre-adjusted vacuum as "zero" and only detect the **adhesion deficit** (`-10⁻⁹ J/m³`).  
-3. The negative sign indicates **energy withdrawal** from the vacuum (like capillary action).
- 
+| **CP5D Observer**   | `10¹¹³ J/m³`         | True GEP.             |
+| **CP4D Observer**   | `0 J/m³` (background)| Perceives the 5D vacuum as "empty.                           |
+| **Dark Energy**     | `10⁻⁹ J/m³`         | **Net effect**: Energy spent on adhesion (curving CP4D).    |
 
 ## Testable Predictions  
 - 🔍 **Sub-mm gravity deviations** (Casimir experiments)  
